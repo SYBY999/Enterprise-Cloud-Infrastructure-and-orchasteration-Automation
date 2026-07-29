@@ -1,0 +1,8 @@
+apiVersion: v2
+name: app
+description: Enterprise Application Helm Chart
+type: application
+version: 1.0.0
+appVersion: "1.0"
+maintainers:
+  - name: SYBY999
