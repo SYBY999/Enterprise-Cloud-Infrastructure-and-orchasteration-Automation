@@ -2,7 +2,7 @@
 
 A comprehensive infrastructure-as-code solution for deploying and managing highly available, multi-AZ AWS environments with Kubernetes orchestration, full-stack observability, and security hardening.
 
-## 🏗️ Architecture Overview
+##  Architecture Overview
 
 This project demonstrates end-to-end cloud infrastructure automation using:
 - **AWS Services:** EC2, VPC, S3, IAM, ECR, EKS, ALB, ASG, CloudWatch
@@ -11,7 +11,7 @@ This project demonstrates end-to-end cloud infrastructure automation using:
 - **Observability:** Prometheus, Grafana, CloudWatch
 - **Security:** VPC security groups, IAM least-privilege, fail2ban
 
-## ✨ Key Features
+##  Key Features
 
 ### Highly Available Multi-AZ AWS Environment
 - Custom VPC with public/private subnets across multiple availability zones
