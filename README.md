@@ -102,7 +102,7 @@ This project demonstrates end-to-end cloud infrastructure automation using:
     └── SECURITY.md
 ```
 
-## 🚀 Quick Start
+##  Quick Start
 
 ### Prerequisites
 - Terraform 1.0+
@@ -158,7 +158,7 @@ kubectl port-forward svc/grafana 3000:80 -n monitoring
 # Visit http://localhost:3000 (default: admin/admin)
 ```
 
-## 📊 Key Metrics & Performance
+##  Key Metrics & Performance
 
 - **Environment Setup Time:** Reduced from hours to ~15 minutes via Terraform
 - **High Availability:** Multi-AZ architecture with failover capability
@@ -166,14 +166,14 @@ kubectl port-forward svc/grafana 3000:80 -n monitoring
 - **Observability:** Real-time metrics from Prometheus & CloudWatch
 - **Security:** VPC isolation, least-privilege IAM, intrusion prevention
 
-## 📚 Documentation
+##  Documentation
 
 - [Architecture Overview](docs/ARCHITECTURE.md)
 - [Deployment Guide](docs/DEPLOYMENT.md)
 - [Troubleshooting](docs/TROUBLESHOOTING.md)
 - [Security Best Practices](docs/SECURITY.md)
 
-## 🔒 Security Considerations
+##  Security Considerations
 
 - ✅ Least-privilege IAM roles and policies
 - ✅ VPC security groups with restricted ingress/egress
@@ -195,7 +195,7 @@ kubectl port-forward svc/grafana 3000:80 -n monitoring
 | **OS** | Linux (RHEL/CentOS) |
 | **Networking** | TCP/IP, VLANs, Subnetting, CCNA Principles |
 
-## 📈 Roadmap
+##  Roadmap
 
 - [ ] Add multi-region failover capabilities
 - [ ] Implement GitOps workflow with ArgoCD
@@ -217,7 +217,7 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 
 ---
 
-## ❓ Support
+##  Support
 
 For issues, questions, or suggestions:
 1. Check [Troubleshooting Guide](docs/TROUBLESHOOTING.md)
